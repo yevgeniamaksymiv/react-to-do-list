@@ -4,10 +4,10 @@ function Todo({ todo, toggleTask, removeTask }) {
             <div className={todo.complete ? "item-text strike" : "item-text"}
                 onClick={() => toggleTask(todo.id)}
             >
-                <input value={todo.task} />
+                {todo.task}
             </div>
             <div className="item-delete" onClick={() => removeTask(todo.id)}>
-                <button>X</button>
+                x
             </div>
         </div>
     );
