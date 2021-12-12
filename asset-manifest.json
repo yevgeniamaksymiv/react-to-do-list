@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yevgeniamaksymiv/react-to-do-list.git/static/css/main.8e678920.chunk.css",
+    "main.js": "/yevgeniamaksymiv/react-to-do-list.git/static/js/main.ed96f1a7.chunk.js",
+    "main.js.map": "/yevgeniamaksymiv/react-to-do-list.git/static/js/main.ed96f1a7.chunk.js.map",
+    "runtime-main.js": "/yevgeniamaksymiv/react-to-do-list.git/static/js/runtime-main.891d0a3b.js",
+    "runtime-main.js.map": "/yevgeniamaksymiv/react-to-do-list.git/static/js/runtime-main.891d0a3b.js.map",
+    "static/js/2.262b3713.chunk.js": "/yevgeniamaksymiv/react-to-do-list.git/static/js/2.262b3713.chunk.js",
+    "static/js/2.262b3713.chunk.js.map": "/yevgeniamaksymiv/react-to-do-list.git/static/js/2.262b3713.chunk.js.map",
+    "index.html": "/yevgeniamaksymiv/react-to-do-list.git/index.html",
+    "static/css/main.8e678920.chunk.css.map": "/yevgeniamaksymiv/react-to-do-list.git/static/css/main.8e678920.chunk.css.map",
+    "static/js/2.262b3713.chunk.js.LICENSE.txt": "/yevgeniamaksymiv/react-to-do-list.git/static/js/2.262b3713.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.891d0a3b.js",
+    "static/js/2.262b3713.chunk.js",
+    "static/css/main.8e678920.chunk.css",
+    "static/js/main.ed96f1a7.chunk.js"
+  ]
+}
